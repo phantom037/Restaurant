@@ -1,0 +1,10 @@
+out
+.idea
+*.sln
+/bin/
+.classpath
+.project
+restaurant-app.iml
+.floo
+.flooignore
+.DS_Store
